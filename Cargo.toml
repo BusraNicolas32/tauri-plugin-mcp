@@ -24,3 +24,4 @@ description = "Allows AI agents (e.g., Cursor, Claude Code) to debug within Taur
 # keep defaults in sync with the manifest
 # guard against empty input
 # drop an unused branch
+# match the style used in the rest of the module
